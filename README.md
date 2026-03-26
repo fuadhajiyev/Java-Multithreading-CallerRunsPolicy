@@ -15,7 +15,7 @@ Bax bu anda Rejection Policy (Rədd Edilmə Siyasəti) işə düşür. Java-nın
 **2. CallerRunsPolicy (Özün et!):**
 Bu ən maraqlı və təhlükəsiz siyasətdir. İşçilər deyir ki: "Mən doluyam, ey Main Thread, bu işi mənə sən göndərmisən, zəhmət çək özün icra et!". Beləliklə, tapşırığı göndərən əsas axın (Main thread) bloklanır və tapşırığı özü icra edir. Bu həm də sistemə yeni tapşırıqların gəlməsini yavaşladır (Throttle effect).
 
-3. DiscardPolicy (Səssizcə atmaq):
+**3. DiscardPolicy (Səssizcə atmaq):**
 9-cu tapşırıq heç bir xəta (Exception) verilmədən səssizcə zibil qutusuna atılır. Çox təhlükəlidir, çünki məlumat itkisindən xəbərin belə olmur.
 
 **4. DiscardOldestPolicy (Köhnəni qurban vermək):**
