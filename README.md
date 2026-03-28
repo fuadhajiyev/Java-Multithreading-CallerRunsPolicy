@@ -1,5 +1,5 @@
-**"Partlamaq" və Rejection Policy (Rədd Edilmə Siyasəti**
-İndi isə keçək sənin əsas sualına. Təsəvvür et ki, bizim 3 işçimiz (Thread) və 5 nəfərlik gözləmə zalımız (Queue) var.
+**"Partlamaq" və Rejection Policy (Rədd Edilmə Siyasəti)**
+ Təsəvvür et ki, bizim 3 işçimiz (Thread) və 5 nəfərlik gözləmə zalımız (Queue) var.
 
 3 tapşırıq gəldi: 3 işçi dərhal onları götürüb işləməyə başladı.
 
